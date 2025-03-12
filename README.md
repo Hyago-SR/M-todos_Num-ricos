@@ -1,4 +1,4 @@
 # Métodos Numéricos
 
 ## Objetivo:
-- Aprender como funciona a git subindo alguns programas de cálculo numérico 
+- Aprender como funciona a git subindo programa de cálculo numérico 
